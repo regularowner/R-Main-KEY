@@ -21,6 +21,14 @@
 	    "expire": "12.12.2025",
 	    "status" : "premium"
 	    
+  },
+
+"64656e656d65": {
+	    "name": "deneme",
+	    "device_id": "9CF53D00-2AC4-11EF-A4F6-40C2BA58C269",
+	    "expire": "28.04.2025",
+	    "status" : "premium"
+	    
   }
 }
 
