@@ -23,6 +23,14 @@
 	    
   },
 
+	"616c70": {
+	    "name": "alp",
+	    "device_id": "34718B0E-B39A-4D80-AAA6-FC5CEEBE74A9",
+	    "expire": "16.10.2025",
+	    "status" : "normal"
+	    
+  },
+
     "726567756c61726162696d": {
 	    "name": "Rowdy Bey",
 	    "device_id": "0ACDF2B0-9E16-4F1D-9CB8-D6C37E60A19F",
