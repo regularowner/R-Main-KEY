@@ -6,7 +6,6 @@
 	    "status" : "premium"
 	    
   },
-
 	"6b696d736573697a32": {
 	    "name": "Kimsesiz2",
 	    "device_id": "AC6EFF8A-4B2D-8834-24F8-3C7C3FB81045",
@@ -18,6 +17,14 @@
 	    "name": "Kimsesiz",
 	    "device_id": "4FB5CDA0-C59D-8A48-948C-3AE58C04B678",
 	    "expire": "NO LİMİT",
+	    "status" : "normal"
+	    
+  },
+
+	"64656d6f31": {
+	    "name": "demo1",
+	    "device_id": "EC239445-56A3-1FDB-A4EA-52505A4DD05E",
+	    "expire": "10.28.2025",
 	    "status" : "normal"
 	    
   },
