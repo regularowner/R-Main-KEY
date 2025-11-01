@@ -1,4 +1,6 @@
 {
+
+	
     "726f7764797974": {
 	    "name": "ADMİN",
 	    "device_id": "19006B9C-AE2F-0000-0000-000000000000",
@@ -11,6 +13,14 @@
 	    "device_id": "AC6EFF8A-4B2D-8834-24F8-3C7C3FB81045",
 	    "expire": "NO LİMİT",
 	    "status" : "normal"
+	    
+  },
+
+	 "626f72736163c4b172656973": {
+	    "name": "borsacı",
+	    "device_id": "F7DE36E6-2EF1-11E7-8FF5-54E1AD14409E",
+	    "expire": "1.11.2026",
+	    "status" : "premium"
 	    
   },
   "64656d6f": {
